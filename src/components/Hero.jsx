@@ -5,6 +5,7 @@ const Hero = () => {
     <div>
     hello world
     this is my first push
+    2nd commit
     </div>
   )
 }
