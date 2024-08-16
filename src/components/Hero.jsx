@@ -36,9 +36,9 @@ const Hero = () => {
         >
           Assign Work
         </button>
-      </form>
-    </div>
-  );
+        </form>
+        </div>
+)
 };
 
 export default Hero;
